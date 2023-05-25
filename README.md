@@ -1,6 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on 2 adapters for the home-automation [ioBroker](https://www.iobroker.net).
+🔭 I’m currently working on 3 adapters for the home-automation [ioBroker](https://www.iobroker.net).
 
+* [Energiefluss-erweitert Adapter](https://github.com/SKB-CGN/ioBroker.energiefluss-erweitert) (Brand-new Alpha)
 * [Energiefluss Adapter](https://github.com/SKB-CGN/ioBroker.energiefluss)
 * [MyWallbox Adapter](https://github.com/SKB-CGN/ioBroker.mywallbox)
 
